@@ -3,10 +3,7 @@
 
 #H1 *USANDO 2 VECTORES CAPTURE EDAD Y SEMESTRE DE N ESTUDIANTES*
 
-
-[![1.jpg](https://i.postimg.cc/Y2PfCgYw/1.jpg)](https://postimg.cc/4nzh8YW8)
-[![1-2.jpg](https://i.postimg.cc/y6Dpj7Ts/1-2.jpg)](https://postimg.cc/DmKcykDM)
-
+![DIAGRAMA 1](https://user-images.githubusercontent.com/113399679/205480475-546fea73-e78d-452c-aeb6-3ddcb91b7bdc.jpg)
 
 ##H2 prueba de escritorio
 
@@ -48,7 +45,7 @@ sem| n| edad|
 #H1 *USANDO MATRICES CAPTURE EDAD Y SEMESTRE DE N ESTUDUANTES*
 
 
-[![2.jpg](https://i.postimg.cc/D0PLPCBW/2.jpg)](https://postimg.cc/hQhXS0Fg)
+![DIAGRAMA 2](https://user-images.githubusercontent.com/113399679/205480503-799102e2-fca8-496c-9537-dec1953c6e31.jpg)
 
 
 ##H2 PRUEBA DE ESCRITORIO 
@@ -98,7 +95,8 @@ N| E| S|
 #H1 *RELLENAR UNA MATRIZ CUADRADA (NxN) CON UN NUMERO LEIDO DEL TECLADO*
 
 
-[![3.jpg](https://i.postimg.cc/Y0BYBchD/3.jpg)](https://postimg.cc/xJgcL4GL)
+![DIAGRAMA 3](https://user-images.githubusercontent.com/113399679/205480521-c8985cc0-349d-4661-a880-c09af22dbe4e.jpg)
+
 
 
 ##H2 PRUBA DE ESCRITORIO
@@ -145,8 +143,9 @@ N| NUM|
 |4|5|6|
 |7|8|9|
 
+![DIAGRAMA 4](https://user-images.githubusercontent.com/113399679/205480540-65767e4c-4c43-434e-83c7-7650229c8c53.jpg)
 
-[![4.jpg](https://i.postimg.cc/XJbdTSZH/4.jpg)](https://postimg.cc/2q01Zt7h)
+
 
 
 ###H3 *PRUEBA DE ESCRITORIO*
@@ -192,7 +191,8 @@ N| NUM|
 |2|2|2|
 |3|3|3|
 
-[![5.jpg](https://i.postimg.cc/tJm50vGs/5.jpg)](https://postimg.cc/T5gmg9wx)
+![DIAGRAMA 5](https://user-images.githubusercontent.com/113399679/205480550-8bc53855-9ada-49bc-8920-8e8994032bec.jpg)
+
 
 
 ###H3 *PRUEBA DE ESCRITORIO*
@@ -235,7 +235,8 @@ N| NUM|
 |0|0|3|0|
 |0|0|0|4|
 
-[![6.jpg](https://i.postimg.cc/7LyNyTdn/6.jpg)](https://postimg.cc/3knGXWKk)
+0
+![DIAGRAMA 6](https://user-images.githubusercontent.com/113399679/205480688-5aef032d-1997-48a1-be3f-5bed9e9f23bd.jpg)
 
 
 ##H2 *PRUEBA DE ESCRITORIO*
@@ -292,6 +293,7 @@ Ejemplo
 
 
 **EJERCICIO 7**
+![DIAGRAMA 7](https://user-images.githubusercontent.com/113399679/205480692-9a9fd716-e646-49a2-a509-531855f36f0f.jpg)
 
 
 #H1 *CONVERTIR*
@@ -382,7 +384,8 @@ Y 32 ALUMNOS, MENCIONE LOS ALUMNOS EN RIESGO (CON ALMENOS 1 MATERIA REPROBADA)
             | | | | | | | |
           
     
-  [![8.jpg](https://i.postimg.cc/ZKv7tNVC/8.jpg)](https://postimg.cc/crZMfvqS)
+  ![DIAGRAMA 8](https://user-images.githubusercontent.com/113399679/205480713-b11c4dd1-4f0e-44f3-ada0-a3d45f555baf.jpg)
+
   
   
   ###H3 *PRUEBA DE ESCRITORIO*
@@ -431,8 +434,8 @@ Ejemplo
   DETERMINE CUAL ES MAYOR, PREGUNTE LOS VALORES PARA LLENAR LA MATRIZ
   
   
-  [![9.jpg](https://i.postimg.cc/XvthygHS/9.jpg)](https://postimg.cc/KKrQ6thJ)
-  
+ ![DIAGRAMA 9](https://user-images.githubusercontent.com/113399679/205480753-5e88adfe-ae60-4180-88ca-90b00cb84f3f.jpg)
+
   
   ##H2 *PREBA DE ECRITORIO*
   
@@ -483,7 +486,8 @@ J=M
 |3|
 |6|
 
-[![10.jpg](https://i.postimg.cc/ncRCfsS9/10.jpg)](https://postimg.cc/TpbRrP6T)
+
+![DIAGRAMA 10](https://user-images.githubusercontent.com/113399679/205480792-5408e153-7600-4f56-8e3d-5046c8cd6d3b.jpg)
 
 
 ###H3 *PRUEBA DE ESCRITORIO*
@@ -524,7 +528,8 @@ Ejemplo
 #H1 *DADA UNA MATRIZ DE NxM ALMACENAR EN UN VECTOR LAS MAYORES*
 
 
-[![11.jpg](https://i.postimg.cc/sgWyH1kr/11.jpg)](https://postimg.cc/v4Gpc88q)
+![DIAGRAMA 11](https://user-images.githubusercontent.com/113399679/205480801-9277ed07-aeef-4a3d-9426-24978176b737.jpg)
+
 
 
 ##H2 *PRUEBA DE ESRITORIO*
